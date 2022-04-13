@@ -1,0 +1,51 @@
+body {
+    background-color: #1a1d1d;
+    color: rgba(211, 211, 211, 0.7);
+}
+nav {
+    border: none;
+    font-size: 2rem;
+    padding: 1%;
+}
+.navbar-brand {
+    font-size: 3rem;
+}
+p {
+    font-size: 2.5rem;
+}
+h2 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+footer {
+    background-color: black;
+    padding: 5%;
+    margin: 0;
+}
+main li {
+    font-size:2rem;
+}
+main {
+    padding: 3%;
+}
+.e {
+    text-align: center;
+}
+h1 {
+    font-size: 7rem;
+    font-weight: bolder;
+}
+.fab {
+    font-size: 150%;
+}
+.fa-youtube {
+    color: #FF0000;
+}
+.fa-instagram {
+    background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: white;
+}
